@@ -1,0 +1,4 @@
+{ "name" : "Room 4",
+  "description" : "You are now in the Euclid class containment wing.  Several alarms are going off, indicating that objects are breaching containment.  Head east to keep moving, or west to go back.",
+  "neighbors" : {"w" : 3, "e ": 5}
+}

@@ -1,0 +1,4 @@
+{ "name" : "Room 12",
+  "description" : "It is teffifyingly quiet in the Keter class containment wing.  Although none of the alarms are going off and it does not sound like the intruders are in this zone, you really do not feel safe.  Go north if you have the courage to keep moving, and go south if you do not.",
+  "neighbors" : {"n" : 13, "s" : 3}
+}

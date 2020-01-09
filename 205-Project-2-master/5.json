@@ -1,0 +1,4 @@
+{ "name" : "Room 5",
+  "description" : "You are now deep in the Euclid wing.  You hear distant screaming, and also a sound like grinding stone to the south.",
+  "neighbors" : {"s" : 6, "w" : 22, "n" : 22, "e" : 22}
+}

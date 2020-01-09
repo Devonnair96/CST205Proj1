@@ -1,0 +1,4 @@
+{ "name" : "Room 6",
+  "description" : "as you step into the room you see a weird statue that looks like a yellow person with an inflated head and stubby arms.  You know that this is SCP-173, a living sculpture that hates humans but can only move when it isn't being watch.  Without blinking you very carefully move around it and slip into an elevator.  You can hear it banging on as it tries to force it's way into the elevator. push up or down",
+  "neighbors" : {"down" : 7, "up":  23}
+}

@@ -1,0 +1,4 @@
+{ "name" : "Room 13",
+  "description" : "You are now deep in the Keter wing.  after walking past several containment chambers and test rooms you arive at an elevator.  You can go up or down.",
+  "neighbors" : {"up" : 14, "down" : 15}
+}

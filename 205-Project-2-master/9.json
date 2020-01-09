@@ -1,0 +1,4 @@
+{ "name" : "Room 9",
+  "description" : "you are now right in the middle of the Safe class containment wing.  There should not be any dangerous monsters or objects here, but you are surrounded by enemies.  Go east to turn back, and you can also go north, south, and west, or use the elevator to go up or down.",
+  "neighbors" : {"n" : 10, "e" : 8 , "s" : 16, "w" : 16, "up": 21, "down": 21}
+}

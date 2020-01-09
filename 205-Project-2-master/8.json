@@ -1,0 +1,4 @@
+{ "name" : "Room 8",
+  "description" : "You are now in the Safe class containment wing.  Intruders are close by.  head east to go back, or west to go deeper",
+  "neighbors" : {"w" : 9, "e" : 3}
+}

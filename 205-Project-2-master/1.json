@@ -1,0 +1,4 @@
+{ "name" : "Room 1",
+  "description" : "You are currently in an empty testing room.  You can here distant gunfire and screaming. There is an exit to the north and the south",
+  "neighbors" : {"n" : 2, "s" : 16}
+}

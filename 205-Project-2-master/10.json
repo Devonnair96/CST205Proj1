@@ -1,0 +1,4 @@
+{ "name" : "Room 10",
+  "description" : "you narowly avoid running into intruders as you head north.  You spot a hole in the floor that you can jump down to go to the lower floor.  or you can go west, north, east, or south",
+  "neighbors": {"w": 11, "s": 9, "e": 16, "n": 16, "down": 24}
+}

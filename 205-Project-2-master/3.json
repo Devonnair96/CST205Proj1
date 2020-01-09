@@ -1,0 +1,4 @@
+{ "name" : "Room 3",
+  "description" : "You hear gunfire to the west, which is where Safe class object are stored.  You hear screaming from the east, which is where Euclid class objects are kept.  The north is quiet, but that is where Keter (most dangerous) class objects are imprizoned.  The south is where you came from.",
+  "neighbors" : {"n" : 12, "e" : 4, "w" : 8, "s" : 2}
+}
